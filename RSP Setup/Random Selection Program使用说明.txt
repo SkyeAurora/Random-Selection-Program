@@ -1,0 +1,9 @@
+解压：将RSP Setup解压到桌面
+
+安装：双击打开RSP Setup\Debug\setup.exe
+
+按步骤安装（选择安装文件夹时，建议安装在刚才的RSP Setup文件夹下（如：C:\...\Desktop\RSP Setup\Release），便于查找）
+
+安装完成后在指定位置即可找到Random Selection Program.exe 双击即可运行
+
+需要修改抽取样本直接按相同格式修改同目录下Students.txt文件即可
